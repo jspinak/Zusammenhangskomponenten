@@ -1,2 +1,2 @@
 # Zusammenhangskomponenten
-Zeigt wie den Zusammenhangskomponente DFS Algorithmus funktioniert (Seiten 39-41 Vorlesung 7)
+Zeigt wie der Zusammenhangskomponente DFS Algorithmus funktioniert (Seiten 39-41 Vorlesung 7)
